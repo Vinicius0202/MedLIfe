@@ -1,0 +1,10 @@
+C:\Users\Manoel\source\repos\APIMedLif\DOMAIN\bin\Debug\netcoreapp3.1\DOMAIN.deps.json
+C:\Users\Manoel\source\repos\APIMedLif\DOMAIN\bin\Debug\netcoreapp3.1\DOMAIN.dll
+C:\Users\Manoel\source\repos\APIMedLif\DOMAIN\bin\Debug\netcoreapp3.1\DOMAIN.pdb
+C:\Users\Manoel\source\repos\APIMedLif\DOMAIN\obj\Debug\netcoreapp3.1\DOMAIN.csproj.AssemblyReference.cache
+C:\Users\Manoel\source\repos\APIMedLif\DOMAIN\obj\Debug\netcoreapp3.1\DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\source\repos\APIMedLif\DOMAIN\obj\Debug\netcoreapp3.1\DOMAIN.AssemblyInfoInputs.cache
+C:\Users\Manoel\source\repos\APIMedLif\DOMAIN\obj\Debug\netcoreapp3.1\DOMAIN.AssemblyInfo.cs
+C:\Users\Manoel\source\repos\APIMedLif\DOMAIN\obj\Debug\netcoreapp3.1\DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\source\repos\APIMedLif\DOMAIN\obj\Debug\netcoreapp3.1\DOMAIN.dll
+C:\Users\Manoel\source\repos\APIMedLif\DOMAIN\obj\Debug\netcoreapp3.1\DOMAIN.pdb

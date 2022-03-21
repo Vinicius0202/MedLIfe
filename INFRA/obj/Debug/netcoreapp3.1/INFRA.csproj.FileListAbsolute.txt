@@ -1,0 +1,13 @@
+C:\Users\Manoel\source\repos\APIMedLif\INFRA\bin\Debug\netcoreapp3.1\INFRA.deps.json
+C:\Users\Manoel\source\repos\APIMedLif\INFRA\bin\Debug\netcoreapp3.1\INFRA.dll
+C:\Users\Manoel\source\repos\APIMedLif\INFRA\bin\Debug\netcoreapp3.1\INFRA.pdb
+C:\Users\Manoel\source\repos\APIMedLif\INFRA\bin\Debug\netcoreapp3.1\DOMAIN.dll
+C:\Users\Manoel\source\repos\APIMedLif\INFRA\bin\Debug\netcoreapp3.1\DOMAIN.pdb
+C:\Users\Manoel\source\repos\APIMedLif\INFRA\obj\Debug\netcoreapp3.1\INFRA.csproj.AssemblyReference.cache
+C:\Users\Manoel\source\repos\APIMedLif\INFRA\obj\Debug\netcoreapp3.1\INFRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\source\repos\APIMedLif\INFRA\obj\Debug\netcoreapp3.1\INFRA.AssemblyInfoInputs.cache
+C:\Users\Manoel\source\repos\APIMedLif\INFRA\obj\Debug\netcoreapp3.1\INFRA.AssemblyInfo.cs
+C:\Users\Manoel\source\repos\APIMedLif\INFRA\obj\Debug\netcoreapp3.1\INFRA.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\source\repos\APIMedLif\INFRA\obj\Debug\netcoreapp3.1\INFRA.csproj.CopyComplete
+C:\Users\Manoel\source\repos\APIMedLif\INFRA\obj\Debug\netcoreapp3.1\INFRA.dll
+C:\Users\Manoel\source\repos\APIMedLif\INFRA\obj\Debug\netcoreapp3.1\INFRA.pdb

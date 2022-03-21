@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d6pILuBY88m1M7W14P5+EV/USBxQeTM0c/2zOmRPVxAmPQV1wI2WHjdQ8SWsENCsa5INR33DZnveeacyysIllg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Manoel\\source\\repos\\APIMedLif\\APIMedLif\\APIMedLif.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manoel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Manoel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.0\\swashbuckle.aspnetcore.swagger.6.3.0.nupkg.sha512",
+    "C:\\Users\\Manoel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.0\\swashbuckle.aspnetcore.swaggergen.6.3.0.nupkg.sha512",
+    "C:\\Users\\Manoel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.0\\swashbuckle.aspnetcore.swaggerui.6.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
