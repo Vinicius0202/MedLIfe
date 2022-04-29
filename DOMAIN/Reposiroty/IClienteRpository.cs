@@ -8,6 +8,7 @@ namespace DOMAIN.Reposiroty
 {
     public interface IClienteRpository
     {
-        Task AdicinarCliente(CLienteModel cliente);    
+        Task AdicinarCliente(CadCLiente login);
+    
     }
 }

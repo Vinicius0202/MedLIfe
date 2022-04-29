@@ -13,10 +13,11 @@ namespace APLICATION.Interface
             return ValidarCPF(documento); 
         }
 
-        private static bool ValidarCPF(string cpf)
+        private static bool ValidarCPF(string login)
         {
-            if (string.IsNullOrEmpty(cpf) && cpf.Length > 14) throw new Exception("Tamnho do documneto Permetido é de 14 caracteres " + cpf.Length); 
-            
+
+            if (string.IsNullOrEmpty(login)) throw new Exception("Email incorreto");
+
             return true;
 
         }

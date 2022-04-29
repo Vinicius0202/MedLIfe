@@ -11,3 +11,16 @@ C:\Users\Manoel\source\repos\APIMedLif\INFRA\obj\Debug\netcoreapp3.1\INFRA.cspro
 C:\Users\Manoel\source\repos\APIMedLif\INFRA\obj\Debug\netcoreapp3.1\INFRA.csproj.CopyComplete
 C:\Users\Manoel\source\repos\APIMedLif\INFRA\obj\Debug\netcoreapp3.1\INFRA.dll
 C:\Users\Manoel\source\repos\APIMedLif\INFRA\obj\Debug\netcoreapp3.1\INFRA.pdb
+E:\Projetos Visual Studio\MedLife\INFRA\bin\Debug\netcoreapp3.1\INFRA.deps.json
+E:\Projetos Visual Studio\MedLife\INFRA\bin\Debug\netcoreapp3.1\INFRA.dll
+E:\Projetos Visual Studio\MedLife\INFRA\bin\Debug\netcoreapp3.1\INFRA.pdb
+E:\Projetos Visual Studio\MedLife\INFRA\bin\Debug\netcoreapp3.1\DOMAIN.dll
+E:\Projetos Visual Studio\MedLife\INFRA\bin\Debug\netcoreapp3.1\DOMAIN.pdb
+E:\Projetos Visual Studio\MedLife\INFRA\obj\Debug\netcoreapp3.1\INFRA.csproj.AssemblyReference.cache
+E:\Projetos Visual Studio\MedLife\INFRA\obj\Debug\netcoreapp3.1\INFRA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos Visual Studio\MedLife\INFRA\obj\Debug\netcoreapp3.1\INFRA.AssemblyInfoInputs.cache
+E:\Projetos Visual Studio\MedLife\INFRA\obj\Debug\netcoreapp3.1\INFRA.AssemblyInfo.cs
+E:\Projetos Visual Studio\MedLife\INFRA\obj\Debug\netcoreapp3.1\INFRA.csproj.CoreCompileInputs.cache
+E:\Projetos Visual Studio\MedLife\INFRA\obj\Debug\netcoreapp3.1\INFRA.csproj.CopyComplete
+E:\Projetos Visual Studio\MedLife\INFRA\obj\Debug\netcoreapp3.1\INFRA.dll
+E:\Projetos Visual Studio\MedLife\INFRA\obj\Debug\netcoreapp3.1\INFRA.pdb

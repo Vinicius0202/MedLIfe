@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "EFgwJKPFubtGsXHTVjgplEw+h/iIlEyUqXcK59U2oipjp+xewugO2AbqGcK+hTVUYZkYiYSbhO/0gOBFSAYyng==",
+  "dgSpecHash": "tQTEXKawkmmBntra9tXd0B+jpLIUpabFL3HkEGqSyC1OqXNAhyVKso6+z8CYh7fUpTJ3YdQvD3zMj7rB0hFdJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Manoel\\source\\repos\\APIMedLif\\INFRA\\INFRA.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Projetos Visual Studio\\MedLife\\INFRA\\INFRA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manoel\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Manoel\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Manoel\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\Manoel\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Manoel\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Manoel\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Manoel\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
+    "C:\\Users\\Manoel\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Manoel\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

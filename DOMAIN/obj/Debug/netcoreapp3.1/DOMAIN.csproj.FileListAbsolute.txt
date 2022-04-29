@@ -8,3 +8,13 @@ C:\Users\Manoel\source\repos\APIMedLif\DOMAIN\obj\Debug\netcoreapp3.1\DOMAIN.Ass
 C:\Users\Manoel\source\repos\APIMedLif\DOMAIN\obj\Debug\netcoreapp3.1\DOMAIN.csproj.CoreCompileInputs.cache
 C:\Users\Manoel\source\repos\APIMedLif\DOMAIN\obj\Debug\netcoreapp3.1\DOMAIN.dll
 C:\Users\Manoel\source\repos\APIMedLif\DOMAIN\obj\Debug\netcoreapp3.1\DOMAIN.pdb
+E:\Projetos Visual Studio\MedLife\DOMAIN\bin\Debug\netcoreapp3.1\DOMAIN.deps.json
+E:\Projetos Visual Studio\MedLife\DOMAIN\bin\Debug\netcoreapp3.1\DOMAIN.dll
+E:\Projetos Visual Studio\MedLife\DOMAIN\bin\Debug\netcoreapp3.1\DOMAIN.pdb
+E:\Projetos Visual Studio\MedLife\DOMAIN\obj\Debug\netcoreapp3.1\DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos Visual Studio\MedLife\DOMAIN\obj\Debug\netcoreapp3.1\DOMAIN.AssemblyInfoInputs.cache
+E:\Projetos Visual Studio\MedLife\DOMAIN\obj\Debug\netcoreapp3.1\DOMAIN.AssemblyInfo.cs
+E:\Projetos Visual Studio\MedLife\DOMAIN\obj\Debug\netcoreapp3.1\DOMAIN.csproj.CoreCompileInputs.cache
+E:\Projetos Visual Studio\MedLife\DOMAIN\obj\Debug\netcoreapp3.1\DOMAIN.dll
+E:\Projetos Visual Studio\MedLife\DOMAIN\obj\Debug\netcoreapp3.1\DOMAIN.pdb
+E:\Projetos Visual Studio\MedLife\DOMAIN\obj\Debug\netcoreapp3.1\DOMAIN.csproj.AssemblyReference.cache

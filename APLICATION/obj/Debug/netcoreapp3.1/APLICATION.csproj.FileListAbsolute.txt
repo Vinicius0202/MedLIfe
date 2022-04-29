@@ -11,3 +11,16 @@ C:\Users\Manoel\source\repos\APIMedLif\APLICATION\obj\Debug\netcoreapp3.1\APLICA
 C:\Users\Manoel\source\repos\APIMedLif\APLICATION\obj\Debug\netcoreapp3.1\APLICATION.csproj.CopyComplete
 C:\Users\Manoel\source\repos\APIMedLif\APLICATION\obj\Debug\netcoreapp3.1\APLICATION.dll
 C:\Users\Manoel\source\repos\APIMedLif\APLICATION\obj\Debug\netcoreapp3.1\APLICATION.pdb
+E:\Projetos Visual Studio\MedLife\APLICATION\bin\Debug\netcoreapp3.1\APLICATION.deps.json
+E:\Projetos Visual Studio\MedLife\APLICATION\bin\Debug\netcoreapp3.1\APLICATION.dll
+E:\Projetos Visual Studio\MedLife\APLICATION\bin\Debug\netcoreapp3.1\APLICATION.pdb
+E:\Projetos Visual Studio\MedLife\APLICATION\bin\Debug\netcoreapp3.1\DOMAIN.dll
+E:\Projetos Visual Studio\MedLife\APLICATION\bin\Debug\netcoreapp3.1\DOMAIN.pdb
+E:\Projetos Visual Studio\MedLife\APLICATION\obj\Debug\netcoreapp3.1\APLICATION.csproj.AssemblyReference.cache
+E:\Projetos Visual Studio\MedLife\APLICATION\obj\Debug\netcoreapp3.1\APLICATION.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos Visual Studio\MedLife\APLICATION\obj\Debug\netcoreapp3.1\APLICATION.AssemblyInfoInputs.cache
+E:\Projetos Visual Studio\MedLife\APLICATION\obj\Debug\netcoreapp3.1\APLICATION.AssemblyInfo.cs
+E:\Projetos Visual Studio\MedLife\APLICATION\obj\Debug\netcoreapp3.1\APLICATION.csproj.CoreCompileInputs.cache
+E:\Projetos Visual Studio\MedLife\APLICATION\obj\Debug\netcoreapp3.1\APLICATION.csproj.CopyComplete
+E:\Projetos Visual Studio\MedLife\APLICATION\obj\Debug\netcoreapp3.1\APLICATION.dll
+E:\Projetos Visual Studio\MedLife\APLICATION\obj\Debug\netcoreapp3.1\APLICATION.pdb

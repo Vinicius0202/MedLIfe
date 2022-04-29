@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Manoel\\source\\repos\\APIMedLif\\APLICATION\\APLICATION.csproj",
+      "projectUniqueName": "E:\\Projetos Visual Studio\\MedLife\\APLICATION\\APLICATION.csproj",
       "projectName": "APLICATION",
-      "projectPath": "C:\\Users\\Manoel\\source\\repos\\APIMedLif\\APLICATION\\APLICATION.csproj",
+      "projectPath": "E:\\Projetos Visual Studio\\MedLife\\APLICATION\\APLICATION.csproj",
       "packagesPath": "C:\\Users\\Manoel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Manoel\\source\\repos\\APIMedLif\\APLICATION\\obj\\",
+      "outputPath": "E:\\Projetos Visual Studio\\MedLife\\APLICATION\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Manoel\\source\\repos\\APIMedLif\\DOMAIN\\DOMAIN.csproj": {
-              "projectPath": "C:\\Users\\Manoel\\source\\repos\\APIMedLif\\DOMAIN\\DOMAIN.csproj"
+            "E:\\Projetos Visual Studio\\MedLife\\DOMAIN\\DOMAIN.csproj": {
+              "projectPath": "E:\\Projetos Visual Studio\\MedLife\\DOMAIN\\DOMAIN.csproj"
             }
           }
         }
@@ -88,7 +88,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

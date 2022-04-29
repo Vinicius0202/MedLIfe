@@ -15,12 +15,12 @@ namespace APLICATION.Service
         {
             _Repository = repository;
         }
-        public async Task AdicionarCLiente(CLienteModel cliente)
+        public async Task AdicionarCLiente(CadCLiente login)
         {
-            if (cliente != null && Validator.ValidarDocumento(cliente.CPF))
+            if (login != null && Validator.ValidarDocumento(login.Email))
             {
-                await _Repository.AdicinarCliente(cliente);
-            }
+                await _Repository.AdicinarCliente(login);
+           }
         }
     }
 }

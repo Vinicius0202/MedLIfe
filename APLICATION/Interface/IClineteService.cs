@@ -8,6 +8,7 @@ namespace APLICATION.Interface
 {
      public interface IClineteService
     {
-        Task AdicionarCLiente(CLienteModel cliente);    
+        Task AdicionarCLiente(CadCLiente login);
+
     }
 }

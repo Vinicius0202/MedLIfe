@@ -18,7 +18,7 @@ namespace APIMedLif.Controllers
         }
 
         [HttpPost("/CadastrarCliente")] 
-        public async Task<IActionResult> AdicionarCliente([FromBody] CLienteModel cliente)
+        public async Task<IActionResult> AdicionarCliente([FromBody] CadCLiente cliente)
         {
             await _Service.AdicionarCLiente(cliente);
             return StatusCode(200);

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Manoel\\source\\repos\\APIMedLif\\DOMAIN\\DOMAIN.csproj": {}
+    "E:\\Projetos Visual Studio\\MedLife\\DOMAIN\\DOMAIN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Manoel\\source\\repos\\APIMedLif\\DOMAIN\\DOMAIN.csproj": {
+    "E:\\Projetos Visual Studio\\MedLife\\DOMAIN\\DOMAIN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Manoel\\source\\repos\\APIMedLif\\DOMAIN\\DOMAIN.csproj",
+        "projectUniqueName": "E:\\Projetos Visual Studio\\MedLife\\DOMAIN\\DOMAIN.csproj",
         "projectName": "DOMAIN",
-        "projectPath": "C:\\Users\\Manoel\\source\\repos\\APIMedLif\\DOMAIN\\DOMAIN.csproj",
+        "projectPath": "E:\\Projetos Visual Studio\\MedLife\\DOMAIN\\DOMAIN.csproj",
         "packagesPath": "C:\\Users\\Manoel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Manoel\\source\\repos\\APIMedLif\\DOMAIN\\obj\\",
+        "outputPath": "E:\\Projetos Visual Studio\\MedLife\\DOMAIN\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }
